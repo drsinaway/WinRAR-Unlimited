@@ -5,6 +5,6 @@ https://www.tiktok.com/@dr.sinaway/video/7248882752060198149?is_from_webapp=1&se
 
 
 ## Contacts:
-[![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://telegram.me/VIP0_VIP)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue)](https://telegram.me/HORS_VIP)
 [![Egypt Cyber Army](https://img.shields.io/badge/-Telegram-blue)](https://t.me/EGY_CYBER_ARMY)
-[![Forum](https://img.shields.io/badge/-Forum-red)](https://drsinaway.com)
+[![Website](https://img.shields.io/website)](https://drsinaway.com)
